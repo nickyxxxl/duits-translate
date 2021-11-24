@@ -3,7 +3,9 @@ simple api translation for google translate.
 
 ### build instructions:
 `git clone https://github.com/nickyxxxl/duits-translate.git`
+
 `cd duits-translate`
+
 `yarn install`
 
 ### to run the program:
