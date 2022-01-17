@@ -1,6 +1,8 @@
 ## duits-translate
 simple api translation for google translate.
 
+(totally not used for cheating on a test)
+
 ### build instructions:
 `git clone https://github.com/nickyxxxl/duits-translate.git`
 
